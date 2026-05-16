@@ -13,6 +13,13 @@ body {
   border: 1px solid black;
 }
 
+h1,
+span,
+li,
+ul {
+  color: black;
+}
+
 input {
   width: 70%;
   padding: 10px;
