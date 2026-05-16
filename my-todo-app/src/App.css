@@ -2,6 +2,7 @@ body {
   font-family: Arial;
   background: #f2f2f2;
   margin: 0;
+  color: black;
 }
 
 .app-container {
@@ -14,10 +15,17 @@ body {
 input {
   padding: 10px;
   width: 70%;
+  background: white;
+  border: 1px solid black;
+  color: black;
 }
 
 button {
   padding: 10px;
+  background: white;
+  border: 1px solid black;
+  cursor: pointer;
+  color: black;
 }
 
 ul {
@@ -28,4 +36,5 @@ li {
   margin-top: 10px;
   display: flex;
   justify-content: space-between;
+  color: black;
 }
