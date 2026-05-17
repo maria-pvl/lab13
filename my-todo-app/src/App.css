@@ -36,10 +36,11 @@ input {
   font-size: 16px;
   outline: none;
   transition: 0.3s;
+  color: #ddd;
 }
 
 input:focus {
-  border-color: #14b8a6;
+  border-color: #ddd;
 }
 
 button {
